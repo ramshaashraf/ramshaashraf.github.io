@@ -199,7 +199,7 @@ p {
   color: #898989;
 }
 #header .logo img {
-  max-height: 10px;
+  max-height: 100px;
 }
 @media (max-width: 992px) {
   #header {
